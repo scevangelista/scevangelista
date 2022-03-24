@@ -1,12 +1,18 @@
 # Olá, sou o Steve :grin:  
 
-Tenho experiência em várias áreas da TI, como desenvolvimento de sistemas, servidores, VoIP e IoT.
+Trabalho à mais de 11 anos com desenvolvimento de sistemas para internet, alguns dos projetos que já trabalhei:  
+- Sistema em PHP5 para venda de convites de um evento com integração com PagSeguro; 
+- Sistema em PHP5 para consumo de API e geração de informações gerenciais em PHP.
+- Sistema em PHP7 de cadastro de currículos.
+- Sistema em Java para atualização de roteadores via telnet e http para uma empresa de Telecom.
 
-Sobre as skills, hoje trabalho com as seguintes tecnologias:
+Possuo experiência em várias áreas de TI, como desenvolvimento de sistemas, servidores, VoIP e IoT.
+##
+Hoje trabalhando com as seguintes tecnologias:
 
 - 💻 Desenvolvimento: Frontend (HTML, CSS, JS, Flutter, React) e Backend (PHP, NodeJS, MySQL).
-- 🗄️ Servidores: WebServers (NGINX, Apache), SOs (Debian, Ubuntu, CentOS), Containers.
-- 📞 VoIP: SIP (Asterisk, SIP Pulse, ASTPP, ISSABEL), Media Gateways (AudioCodes, Khomp), Protocolos (SS7, MEGACO, SIGTRAN), Projetos de Interconexão entre operadoras.
+- 🗄️ Servidores: WebServers (NGINX, Apache), SOs (Debian, Ubuntu, CentOS), Containers (Docker).
+- 📞 VoIP: SIP (Asterisk, SIP Pulse, ASTPP, ISSABEL), Media Gateways (AudioCodes, Khomp), Protocolos (SS7, MEGACO, SIGTRAN).
 - 🌱 Aprendendo agora: OpenCV e Python.
 
 ##
