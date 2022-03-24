@@ -1,4 +1,4 @@
-# Olá, sou o Steve
+# Olá, sou o Steve :grin:  
 
 Tenho experiência em várias áreas da TI, como desenvolvimento de sistemas, servidores, VoIP e IoT.
 
