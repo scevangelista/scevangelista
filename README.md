@@ -10,10 +10,10 @@ Possuo experiência em várias áreas de TI, como desenvolvimento de sistemas, s
 ##
 Hoje trabalhando com as seguintes tecnologias:
 
-- 💻 Desenvolvimento: Frontend (HTML, CSS, JS, Flutter, React) e Backend (PHP, NodeJS, MySQL).
+- 💻 Desenvolvimento: Frontend (HTML, CSS, JS, Flutter, React), Backend (PHP, NodeJS, MySQL) e Desktop (Phyton).
 - 🗄️ Servidores: WebServers (NGINX, Apache), SOs (Debian, Ubuntu, CentOS), Containers (Docker).
 - 📞 VoIP: SIP (Asterisk, SIP Pulse, ASTPP, ISSABEL), Media Gateways (AudioCodes, Khomp), Protocolos (SS7, MEGACO, SIGTRAN).
-- 🌱 Aprendendo agora: OpenCV e Python.
+- 🌱 Aventurando agora com: OpenCV com Python.
 
 ##
 ### 📫 Fale comigo:  
