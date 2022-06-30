@@ -1,7 +1,7 @@
 # Olá, eu sou o Steve! Seja bem vindo(a) ao meu perfil 😃
 
-Iniciei minha carreira na área em 2010 com o desenvolvimento de sistemas para Web e Mobile.<br/>
-Dentre os muitos projetos que participei, sempre mantive o foco na qualidade do produto final, gerando valor com o código desenvolvido!<br/><br/>  
+Atuo na área de desenvolvimento de software desde 2010 com a criação de sistemas Web e Mobile.<br/>
+Sempre focado na qualidade do produto final, visando gerar valor com o código desenvolvido!<br/><br/>  
 
 
 <div align="left">
