@@ -1,20 +1,43 @@
-# Olá, sou o Steve :grin:  
+# Olá, eu sou o Steve! Seja bem vindo(a) ao meu perfil 😃
 
-Trabalho à mais de 11 anos com desenvolvimento de sistemas para internet, alguns dos projetos que já trabalhei:  
-- Sistema em PHP5 para venda de convites de um evento com integração com PagSeguro; 
-- Sistema em PHP5 para consumo de API e geração de informações gerenciais em PHP.
-- Sistema em PHP7 de cadastro de currículos.
-- Sistema em Java para atualização de roteadores via telnet e http para uma empresa de Telecom.
+Iniciei minha carreira na área em 2010 com o desenvolvimento de sistemas para Web e Mobile.  
 
-Possuo experiência em várias áreas de TI, como desenvolvimento de sistemas, servidores, VoIP e IoT.
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scevangelista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scevangelista&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+## Minhas Skills
+Em constante aprendizado, mas segue as que mais uso:
+
+#### 💻 Programação:
+<div styled="display: inline-block">
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+</div> 
+  
+#### 💾 Banco de bados:
+<div styled="display: inline-block">
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</div>
+
+#### 🔌 Deploy:
+<div styled="display: inline-block">
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img width='50' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+</div>
+<br/>
+
 ##
-Hoje trabalhando com as seguintes tecnologias:
-
-- 💻 Desenvolvimento: Frontend (HTML, CSS, JS, Flutter, React), Backend (PHP, NodeJS, MySQL) e Desktop (Phyton).
-- 🗄️ Servidores: WebServers (NGINX, Apache), SOs (Debian, Ubuntu, CentOS), Containers (Docker).
-- 📞 VoIP: SIP (Asterisk, SIP Pulse, ASTPP, ISSABEL), Media Gateways (AudioCodes, Khomp), Protocolos (SS7, MEGACO, SIGTRAN).
-- 🌱 Aventurando agora com: OpenCV com Python.
-
-##
-### 📫 Fale comigo:  
+#### 📫 Fale comigo:  
 <a href="https://www.linkedin.com/in/steveevangelista" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
