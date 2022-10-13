@@ -12,7 +12,7 @@ Sempre focado na qualidade do produto final, visando gerar valor com o código d
 ## Minhas Skills
 Em constante aprendizado, mas segue as que mais uso:
 
-#### 💻 Programação:
+#### 💻 Linguagens:
 <div styled="display: inline-block">
   <img width='50' height='35' alt='JavaScript' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width='50' height='35' alt='PHP' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -21,6 +21,8 @@ Em constante aprendizado, mas segue as que mais uso:
   <img width='50' height='35' alt='HTML5' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width='50' height='35' alt='CSS3' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width='50' height='35' alt='Flutter' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img width='35' height='35' style='margin-left: 12.5px; margin-right: 12.5px;' alt='Harbour' src="https://user-images.githubusercontent.com/44708676/195702992-d6c5ddb5-240b-4c24-942f-f11fbee1f3a7.png" />
+
 </div> 
   
 #### 💾 Banco de bados:
@@ -28,6 +30,7 @@ Em constante aprendizado, mas segue as que mais uso:
   <img width='50' height='35' alt='MySQL' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img width='50' height='35' alt='PostgreSQL' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img width='50' height='35' alt='MongoDB' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img width='50' height='35' alt='SQL Server' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </div>
 
 #### 🔌 Deploy:
