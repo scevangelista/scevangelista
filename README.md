@@ -27,7 +27,7 @@ Em constante aprendizado, mas segue as que mais uso:
 
 </div> 
   
-#### 💾 Banco de bados:
+#### 💾 Bancos de dados:
 <div styled="display: inline-block">
   <img width='50' height='35' alt='MySQL' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img width='50' height='35' alt='PostgreSQL' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
