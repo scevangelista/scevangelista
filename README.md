@@ -1,6 +1,6 @@
 ### Olá 👋  
 
-Trabalho na área de desenvolvimento desde 2010, focado na qualidade do produto final, buscando conhecimento constantemente para garantir desempenho, estabilidade e agregar valor com as soluções e features desenvolvidas.
+Trabalho na área de desenvolvimento desde 2010, focado na qualidade do produto final, buscando conhecimento constantemente para garantir desempenho, estabilidade e agregar valor com as soluções desenvolvidas.
 Atualmente estou trabalhando como desenvolvedor backend em um ERP SaaS.
 <br/><br/>
 ___
