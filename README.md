@@ -1,6 +1,4 @@
-### Olá 👋  
-
-### 🚀 Sobre Mim
+### Sobre Mim
 
 **Desde 2010 transformando linhas de código em soluções de negócio.**
 
